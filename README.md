@@ -1,4 +1,4 @@
 # test1
 prettig avond
 
-print("dikke L")
+print("hoi allemaal")
